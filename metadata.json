@@ -1,0 +1,6 @@
+{
+  "name": "Bantuan Hukumku",
+  "description": "Basis data peraturan perundang-undangan Indonesia, pencarian pasal kilat offline, hierarki hukum, panduan bantuan hukum Posbakum, dan konsultasi edukasi hukum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
